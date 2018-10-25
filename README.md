@@ -1,3 +1,4 @@
 # Scikit-learn Models
 
-1. Iris
+1. KNN on Iris Datset.ipynb - Iris species classifer using KNN based on the features(measurements) of the flower.
+
